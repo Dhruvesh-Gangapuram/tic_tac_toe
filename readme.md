@@ -9,7 +9,7 @@ This application is built to run on both windows and ios only if you have python
 
 # **Requirenment**
 
-As I said earlier you can run this application on windows and ios only if you have [python](https://www.python.org/) install (latest version i.e., version - 3.10.0).
+As I said earlier you can run this application on windows and ios only if you have [python](https://www.python.org/) install (latest version i.e., version - 3.10.0 or above).
 
 You also need to install [pygame]() and [tkinter]()
 
