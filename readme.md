@@ -1,11 +1,7 @@
 # Tic Tac Toe
 
 # **Intro**
-The purpose of creating this project was to understand the concept of loops, condition and functions and implement them in proper way. 
-
-Also, to understand the use of pygame and tkinter libraries. 
-
-This application is built to run on both windows and ios only if you have python install.
+This project seeks to develop a Tic Tac Toe game with **AI** and **multiplayer features**. The game's AI is built on the min-max algorithm, which allows the computer to make the best plays based on the current state of the game. The multiplayer mode allows two players to compete against one other through a network, with the option of playing locally or remotely. The game was created with Python and Pygame, and it features an easy and user-friendly interface, numerous difficulty levels, and support for multiple concurrent connections.
 
 # **Requirenment**
 
@@ -24,6 +20,4 @@ Step 1 : Open your project and type this command in your terminal `pip install t
 
 Below you can find the screenshot of this application
 
-![](ss/1.png)
-![](ss/2.png)
-![](ss/3.png)
+**screenshorts will be added soon**
